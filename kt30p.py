@@ -231,7 +231,7 @@ while True:
         case 5:
             find_student(students)
         case 6:
-            print()
+            statistal_students_rank (students)
         case 7:
             print()
         case 8:
